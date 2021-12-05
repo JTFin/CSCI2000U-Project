@@ -2,9 +2,13 @@
 
 ## About us
 We are group 29, with the following members:
+
 Ashar Izhar -> https://github.com/Ash3223
+
 Bridget Green -> https://github.com/Bridget-Green
+
 Cameron Millar -> https://github.com/Cameron-Millar
+
 Julian Finley -> https://github.com/JTFin
 
 ## Introduction

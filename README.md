@@ -23,9 +23,14 @@ At the bottom of that list, some tv series had as little as 3 or 4 episodes... w
 
 Going into the meat of the question, when trying to find out if there was a ratings to episodes correlation. We took the top and bottom chunks of data and gave a comparison in the average rating and found that the higher amount of episodes has a higher rating.
 
+![GraphQ1](https://github.com/JTFin/CSCI2000U-Project/blob/main/Stuff/Q1-g1.PNG?raw=true)
+
 Looking to confirm those findings, we took to this graph and eliminated the extreme outliers for readability. The observations are now much clearer. While episodes do have a better rating the longer they run technically, it is because of the sheer amount of tv series sitting at around 20 episodes and low ratings that brings the score down. Looking past that we see what we sought out to find... episode count does infact lead to a low declining score over time.
 
 
+![image](https://user-images.githubusercontent.com/90144034/144937174-5cd5e42a-6e6f-47f4-9aa5-659bf8dd1853.png)
+![image](https://user-images.githubusercontent.com/90144034/144937197-e63d0fae-6698-4b20-9143-717d85b69dfb.png)
+![image](https://user-images.githubusercontent.com/90144034/144937220-bfcdc9a0-cac7-43f1-9fa0-78b825e3ebfe.png)
 
 
 While analyzing the data, we found correlation between the amount each genre is released every year, and the ratings and number of votes. The total overall ratings of a genre, as well as the number of votes, may have an influence over the how often a piece of media in a specific genre is released. When comparing the data showing the number of releases per genre every year with the number of ratings and votes a genre got, we can see a pattern emerging. Whenever a genre has a high overall rating one year, there is an increase in the number of times published in the following years. The opposite is true as well. If a genre has low ratings, less of that genre will be released. The same can be said for the number of votes each genre gets every year. Genres that see a decline in production are the ones who see a drop in the number of votes. Meanwhile, those with higher votes see an incline. We can see that the number of ratings and votes can be used to predict the performance of a genre in the upcoming years.

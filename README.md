@@ -23,7 +23,7 @@ At the bottom of that list, some tv series had as little as 3 or 4 episodes... w
 
 Going into the meat of the question, when trying to find out if there was a ratings to episodes correlation. We took the top and bottom chunks of data and gave a comparison in the average rating and found that the higher amount of episodes has a higher rating.
 
-![GraphQ1](https://github.com/JTFin/CSCI2000U-Project/blob/main/Stuff/Q1-g1.PNG?raw=true)
+![GraphQ1](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q1-g1.PNG?raw=true)
 
 Looking to confirm those findings, we took to this graph and eliminated the extreme outliers for readability. The observations are now much clearer. While episodes do have a better rating the longer they run technically, it is because of the sheer amount of tv series sitting at around 20 episodes and low ratings that brings the score down. Looking past that we see what we sought out to find... episode count does infact lead to a low declining score over time.
 

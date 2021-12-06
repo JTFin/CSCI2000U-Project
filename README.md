@@ -27,6 +27,7 @@ Going into the meat of the question, when trying to find out if there was a rati
 
 Looking to confirm those findings, we took to this graph and eliminated the extreme outliers for readability. The observations are now much clearer. While episodes do have a better rating the longer they run technically, it is because of the sheer amount of tv series sitting at around 20 episodes and low ratings that brings the score down. Looking past that we see what we sought out to find... episode count does infact lead to a low declining score over time.
 
+---
 
 While analyzing the data, we found correlation between the amount each genre is released every year, and the ratings and number of votes. The total overall ratings of a genre, as well as the number of votes, may have an influence over the how often a piece of media in a specific genre is released. 
 
@@ -38,6 +39,7 @@ When comparing the data showing the number of releases per genre every year with
 
 We can see that the number of ratings and votes can be used to predict the performance of a genre in the upcoming years.
 
+---
 
 When looking at how films performed when compared to series, we found that films scored overall worse than series. This however was likely due to sampling, as the number of films more than doubles the number of series. The difference in scores also only becomes noticeable as the difference in films vs series produced increases, and at around the same time period. 
 
@@ -45,6 +47,8 @@ When looking at how films performed when compared to series, we found that films
 ![GraphQ4b](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q4-g2.png?raw=true)
 
 Had the number of series been larger, it too likely would have been brought down to a more middling score, just as a result of having more middling series.
+
+---
 
 ## Conclusion
 

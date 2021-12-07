@@ -70,6 +70,7 @@ Lastly when trying to identify how mature content effects the general rating of 
 
 ### Refinement
 There could be a number of improvements made to this project. First of all, the source data integrity could be much better, as we found easily observable problems (i.e., incorrect dating, duplicate records) that could be fixed before processing. Additionally, a sub-dataset could be utilized specifically for series, and ratings throughout the seasons, instead of as a whole.
+
 If we were to make changes in the future, we could include a subset for actors, and line it up with all rows present, and see how a specific actor effects the ratings, episode count, mature content, etc... This could add a lot more interesting datapoints which could prove useful.
 
 ## Acknowledgements

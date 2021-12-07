@@ -83,5 +83,5 @@ repository is original and that all appropriate resources are rightfully cited.
 2. Install docker
 3. Install jupyter notebooks
 4. Download & extract files into a directory recognized by jupyter notebooks
-5. Run with *sudo docker-compose up --build* with 
+5. Run with *sudo docker-compose up --build* with command line
 6. Open the given local url, and navigate to the notebook

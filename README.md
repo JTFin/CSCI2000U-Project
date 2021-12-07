@@ -61,9 +61,26 @@ Had the number of series been larger, it too likely would have been brought down
 
 ## Conclusion
 
+### Reflection
+In the duration of this project and working with the data provided, as well as our own analysis, we were able to answer our initial questions and learn from it. Ratings played the biggest role in understanding how the data flows year by year. We confirmed that ratings drop as the length of a series extends, and ratings on a genre often play a role in how frequently that genre is present in the following years. 
+
+When making a comparison with films to series, the rating of a series is often significantly better than a film, which could be a result of bias or sheer number of films present.
+
+Lastly when trying to identify how mature content effects the general rating of a series or movie... it does not seem to at all. Anecdotally, this makes sense, as edgy films have always been present in media, and more often then not, sticking to the source material whether it has mature content or not is often preferred. 
+
+### Refinement
+There could be a number of improvements made to this project. First of all, the source data integrity could be much better, as we found easily observable problems (i.e., incorrect dating, duplicate records) that could be fixed before processing. Additionally, a sub-dataset could be utilized specifically for series, and ratings throughout the seasons, instead of as a whole.
+If we were to make changes in the future, we could include a subset for actors, and line it up with all rows present, and see how a specific actor effects the ratings, episode count, mature content, etc... This could add a lot more interesting datapoints which could prove useful.
+
 ## Acknowledgements
 This project was submitted as the final course project for CSCI 2000U “Scientific 
 Data Analysis” during Fall 2021. The authors certify that the work in this 
 repository is original and that all appropriate resources are rightfully cited.
 
 ## README
+1. Install WSL if on windows
+2. Install docker
+3. Install jupyter notebooks
+4. Download & extract files into a directory recognized by jupyter notebooks
+5. Run with *sudo docker-compose up --build* with 
+6. Open the given local url, and navigate to the notebook

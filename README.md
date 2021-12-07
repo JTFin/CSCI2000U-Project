@@ -41,14 +41,23 @@ We can see that the number of ratings and votes can be used to predict the perfo
 
 ---
 
+![GraphQ3a](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g1.png?raw=true)
+![GraphQ3b](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g2.png?raw=true)
+
+The graph displays the main findings from the computations. After analyzing the data, it is clear that if you were to make an outline of the data, you would get a shape that resembles a parabola. When considering a parabola, one of the main aspects of it is it's symmetry. Although this graph clearly is not perfectly symmetrical, something that can be backed up by the slope calculations that were performed, it is very close, and that is all that's needed based on the data we're working with. 
+
+How so? Well, to briefly go over the three main sections of the data, it goes from a downwards trend, to straight, and then upwards. This partial symmetry, in the context of the data we're comparing, would imply that as rate increases, the amount of mature content can increase or decrease, with a little area in between where there are no changes between the two datasets. 
+
+Clearly, this doesn't make sense in the end and it leads to a clear conclusion to the original research question.
+
+---
+
 When looking at how films performed when compared to series, we found that films scored overall worse than series. This however was likely due to sampling, as the number of films more than doubles the number of series. The difference in scores also only becomes noticeable as the difference in films vs series produced increases, and at around the same time period. 
 
 ![GraphQ4a](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q4-g1.png?raw=true)
 ![GraphQ4b](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q4-g2.png?raw=true)
 
 Had the number of series been larger, it too likely would have been brought down to a more middling score, just as a result of having more middling series.
-
----
 
 ## Conclusion
 

@@ -41,8 +41,8 @@ We can see that the number of ratings and votes can be used to predict the perfo
 
 ---
 
-![GraphQ3a](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g1.png?raw=true)
-![GraphQ3b](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g2.png?raw=true)
+![GraphQ3a](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g1.PNG?raw=true)
+![GraphQ3b](https://github.com/JTFin/CSCI2000U-Project/blob/main/Images/Q3-g2.PNG?raw=true)
 
 The graph displays the main findings from the computations. After analyzing the data, it is clear that if you were to make an outline of the data, you would get a shape that resembles a parabola. When considering a parabola, one of the main aspects of it is it's symmetry. Although this graph clearly is not perfectly symmetrical, something that can be backed up by the slope calculations that were performed, it is very close, and that is all that's needed based on the data we're working with. 
 
